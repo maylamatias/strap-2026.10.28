@@ -1,0 +1,2 @@
+# strap
+Primeiros experimentos Bootstrap
